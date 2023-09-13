@@ -8,7 +8,12 @@
  */
 function greet(name) {
   // Your code here
+
+function greatHuman (name = "Hussain"){console.log(`Hello, ${Name}`)}
+
+
 }
+greatHuman
 
 /**
  * isOdd(n):
@@ -22,7 +27,7 @@ function greet(name) {
 function isOdd(n) {
   // Your code here
 }
-
+function makeOdd (n){ n % 2}
 /**
  * oddsSmallerThan(n):
  * - receives a number n
