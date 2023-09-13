@@ -60,20 +60,3 @@
  */
 
 
-//let numberOne = 10
-//let numberTwo = 100
-
-//function printMax(inputOne, inputTwo) {
-    //if (inputOne > inputTwo) {
-   //     return inputOne
-   // }
-   // if (inputTwo > inputOne) {
-  //     return inputTwo
-   // }
-   // else {
-       // return undefined
-
-    //}
-//}
-
-//console.log(printMax(numberOne, numberTwo))

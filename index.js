@@ -15,4 +15,3 @@
  else {return "System Kaput"}
 
  console.log(printMax(numberOne, numberTwo))
- 
